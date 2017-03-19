@@ -1,7 +1,7 @@
 'use strict';
 
-// Define the `phonecatApp` module
-angular.module('phonecatApp', [
+// Define the `cantona7` module
+angular.module('cantona7', [
   'ngAnimate',
   'ngRoute',
   'core',
